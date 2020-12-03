@@ -6,7 +6,7 @@
 no qual demonstro habilidades no front-end / criação de um jogo inspirado no dino game do google, utilizei para a criação deste Jogo: HTML , CSS e JavaScript.
 
 
-## 📫 Contribuindo para o Jogo Resgate
+## 📫 Contribuindo
 
 Quer fazer parte desse projeto? É simples!
 Faça um fork dele e coloque as suas modificações, depois mande um pull request.
